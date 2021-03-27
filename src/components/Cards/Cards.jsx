@@ -55,4 +55,6 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate }}) => {
     )
 }
 
-export default Cards;
+//hello
+
+export default Cards;  
